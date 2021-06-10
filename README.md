@@ -1,6 +1,6 @@
 # flutter_personal_expenses_app
 
-A new Flutter project.
+A flutter practice project learn from Max on Udemy.
 
 ## Getting Started
 
